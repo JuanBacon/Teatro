@@ -23,7 +23,7 @@ public class Teatro {
         if(t==true){
             System.out.println("Conexión exitosa");
         }else{
-          System.out.println("Conexión No exitosa");  
+          System.out.println("Conexión no exitosa");  
         }
         
     }
